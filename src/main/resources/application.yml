@@ -1,0 +1,5 @@
+spring:
+  ai:
+    openai.api-key: ${OPEN_AI_KEY}
+    retry:
+      max-attempts: 1
