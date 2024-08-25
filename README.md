@@ -1,1 +1,1 @@
-# document-chat
+# document-chat API
